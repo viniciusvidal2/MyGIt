@@ -13,5 +13,3 @@ git add .
 git commit novobranch
 
 git push origin novobranch
-
-// 
