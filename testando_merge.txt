@@ -1,2 +1,0 @@
-Essa linha eu adicionei no branch A
-Essa eu adicionei no branch B
