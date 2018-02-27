@@ -1,0 +1,3 @@
+Essa linha eu adicionei no branch A
+
+Essa sera deletada no branch B
